@@ -32,7 +32,7 @@ const saifulla = {
   focus       : ["Web Applications", "REST APIs", "Clean Architecture"],
   currentlyOn : "Building scalable, production-ready applications",
   learning    : ["System Design", "Cloud Architecture", "DevOps"],
-  funFact     : "I debug with console.log and I'm proud of it 😄",
+  funFact     : "I debug with console.log and I'm proud of it",
   openTo      : ["Freelance", "Full-time roles", "Open Source Collaboration"],
 };
 ```
